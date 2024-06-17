@@ -1,0 +1,20 @@
+{
+  "name": "css--frameworks-ca",
+  "version": "0.0.1",
+  "description": "Css frameworks ca, small social media application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/hah98/css--frameworks-CA.git)"
+  },
+  "keywords": [
+    "frameworks",
+    "CSS",
+    "bootstrap"
+  ],
+  "author": "Hibo Harun <hibo-1998@hotmail.com>",
+  "license": "ISC"
+}
